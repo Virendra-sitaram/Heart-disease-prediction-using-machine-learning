@@ -1,4 +1,5 @@
 # Heart-disease-prediction-using_machine_learning
+This is my internship project  and in this project I got a task to predict the heart disease in human body. 
 The objective of this task is to build a logistic regression model to predict the risk of heart disease in patients.
 Thus preventing Heart diseases has become more than necessary. Good data-driven systems for predicting heart diseases can improve the entire research and prevention process, making sure that more people can live healthy lives. This is where Machine Learning comes into play. Machine Learning helps in predicting the Heart diseases, and the predictions made are quite accurate.
 
